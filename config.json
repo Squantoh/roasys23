@@ -1,0 +1,12 @@
+{
+  "GUILD_ID": "1104689136604024913",
+  "LIVEDASHBOARD_CHANNEL_ID": "1104690712328536104",
+  "COMMAND_PREFIX": "!",
+  "COMMAND_CATEGORY_ID": "1104690712328536104",
+  "COMMAND_ROLE_ID": "1104690343577911367",
+  "DASHBOARD_ICONS": {
+    "settings": "https://purepng.com/public/uploads/large/purepng.com-settings-icon-android-lollipopsymbolsiconsgooglegoogle-iconsandroid-lollipoplollipop-iconsandroid-50-721522597280v9qzl.png",
+    "uniques": "https://cdn4.iconfinder.com/data/icons/square-logo-buttons/512/facebook_group-512.png",
+    "holdings": "http://icons.iconarchive.com/icons/chanut/role-playing/1024/Castle-icon.png"
+  }
+}
